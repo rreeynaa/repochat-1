@@ -1,0 +1,16 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+data/vector_db/
+data/cache/
+data/repositories/*
+!data/repositories/.gitkeep
+.DS_Store
+.vscode/
+.idea/
+.streamlit/
